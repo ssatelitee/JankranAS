@@ -62,14 +62,26 @@ section h2 {
 }
 
 .hero {
-    background-color: #1c1c1c;
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
+        url("images/hero.jpg");
+    background-size: cover;
+    background-position: center 65%;
+    background-repeat: no-repeat;
+
     color: white;
     padding: 100px 40px;
     text-align: center;
+    min-height: 480px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .hero-content {
-    max-width: 800px;
+    max-width: 900px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -213,6 +225,27 @@ section h2 {
     .specs {
         grid-template-columns: 1fr;
     }
+        .about-section {
+        grid-template-columns: 1fr;
+        gap: 25px;
+    }
+
+    .about-image img {
+        height: auto;
+    }
+
+    .about-content {
+        padding: 10px;
+    }
+
+    .about-content h2 {
+        font-size: 28px;
+    }
+
+    .specs {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
 }
 
 footer {
@@ -226,4 +259,70 @@ footer {
 footer p {
     margin: 0;
     font-size: 14px;
+}
+header {
+    background-color: #1c1c1c;
+    padding: 15px 20px;
+    text-align: center;
+}
+
+header img {
+    max-width: 300px;
+    width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+header p {
+    margin: 5px 0 0;
+    color: white;
+    font-size: 18px;
+}
+.service-card img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+    border-radius: 8px 8px 0 0;
+}
+
+.transport-image {
+    object-position: right center;
+}
+.about-section {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 25px;
+    align-items: center;
+}
+
+.about-image img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+    display: block;
+}
+
+.about-content {
+    padding: 20px;
+}
+
+.about-label {
+    color: #f5a623;
+    font-weight: bold;
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+}
+
+.about-content h2 {
+    font-size: 36px;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+
+.about-content p {
+    line-height: 1.7;
+    margin-bottom: 20px;
 }

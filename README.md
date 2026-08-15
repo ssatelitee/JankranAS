@@ -14,25 +14,29 @@ Jankran AS provides crane and transport services in Hammerfest and surrounding a
 
 The website was developed from scratch with a focus on a clean, professional and mobile-friendly design.
 
+The website uses the company's own logo and photographs from actual vehicles and assignments.
+
 ##  Technologies
 
-* HTML5
-* CSS3
-* Git
-* GitHub
-* GitHub Pages
+- HTML5
+- CSS3
+- Git
+- GitHub
+- GitHub Pages
 
 ##  Features
 
-* Responsive design
-* Mobile-friendly layout
-* Service overview
-* Crane truck information
-* Contact information
-* Click-to-call phone number
-* Click-to-email email address
-* Responsive layout for desktop and mobile
-* GitHub Pages deployment
+- Responsive design
+- Mobile-friendly layout
+- Service overview
+- Crane truck information
+- Company information
+- Contact information
+- Click-to-call phone number
+- Click-to-email email address
+- Company logo
+- Real project photography
+- GitHub Pages deployment
 
 ##  Crane Truck
 
@@ -42,7 +46,7 @@ Jankran AS operates a Volvo truck equipped with a:
 
 The PK 30.002 TEC 7 is a crane in the **30 tonne-metre class**.
 
-Exact lifting capacity and outreach depend on the crane configuration, equipment and working radius. Detailed technical specifications will be added to the website when the exact configuration of the crane has been confirmed.
+Exact lifting capacity and outreach depend on the crane configuration, equipment and working radius.
 
 ##  Service Area
 
@@ -52,9 +56,9 @@ Exact lifting capacity and outreach depend on the crane configuration, equipment
 
 The website presents services including:
 
-* Crane operations
-* Transport
-* Lifting operations
+- Crane operations
+- Transport
+- Lifting operations
 
 ##  Contact
 
@@ -62,7 +66,7 @@ The website presents services including:
 
 Hammerfest, Norway
 
-**Phone:** 40 48 59 19
+**Phone:** 40 48 59 19  
 **Email:** [post@jankran.no](mailto:post@jankran.no)
 
 ##  Developer
@@ -75,26 +79,25 @@ This project is part of my journey into IT and web development, with a focus on 
 
 Through this project, I have worked with:
 
-* Structuring websites using HTML
-* Styling websites using CSS
-* Creating responsive layouts
-* Creating mobile-friendly designs
-* Using Git for version control
-* Working with GitHub repositories
-* Creating commits and managing project history
-* Publishing a website using GitHub Pages
-* Updating and deploying new versions of a live website
+- Structuring websites using HTML
+- Styling websites using CSS
+- Creating responsive layouts
+- Creating mobile-friendly designs
+- Working with images and media
+- Using Git for version control
+- Working with GitHub repositories
+- Creating commits and managing project history
+- Publishing a website using GitHub Pages
+- Updating and deploying new versions of a live website
 
 ##  Future Improvements
 
-Planned improvements include:
+Possible future improvements include:
 
-* Adding the company logo
-* Adding photos of the crane truck
-* Adding a photo gallery
-* Adding more detailed crane specifications
-* Further improving the mobile experience
-* Connecting the website to a custom domain
+- Connecting the website to a custom domain
+- Adding more detailed information about services
+- Adding additional technical specifications when confirmed
+- Adding an administration system for managing website content
 
 ---
 
