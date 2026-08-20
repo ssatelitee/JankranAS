@@ -1,6 +1,6 @@
-# Jankran AS – Website
+# Jan Kran AS – Website
 
-Website developed for **Jankran AS**, a crane truck and transport company based in Hammerfest, Norway.
+Website developed for **Jan Kran AS**, a crane truck and transport company based in Hammerfest, Norway.
 
 ## Live Website
 
@@ -8,9 +8,9 @@ Website developed for **Jankran AS**, a crane truck and transport company based 
 
 ## About the Project
 
-This project is a responsive business website developed for Jankran AS.
+This project is a responsive business website developed for Jan Kran AS.
 
-Jankran AS provides crane and transport services in Hammerfest and surrounding areas. The company operates a Volvo truck equipped with a **Palfinger PK 30.002 TEC 7** crane.
+Jan Kran AS provides crane and transport services in Hammerfest and surrounding areas. The company operates a Volvo truck equipped with a **Palfinger PK 30.002 TEC 7** crane.
 
 The website was developed from scratch with a focus on a clean, professional and mobile-friendly design.
 
@@ -47,7 +47,7 @@ The website uses the company's own logo and photographs from actual vehicles and
 
 ## Crane Truck
 
-Jankran AS operates a Volvo truck equipped with a:
+Jan Kran AS operates a Volvo truck equipped with a:
 
 **Palfinger PK 30.002 TEC 7**
 
@@ -69,7 +69,7 @@ The website presents services including:
 
 ## Contact
 
-**Jankran AS**
+**Jan Kran AS**
 
 Hammerfest, Norway
 
@@ -133,4 +133,4 @@ Possible future improvements include:
 
 ---
 
-© 2026 Jankran AS
+© 2026 Jan Kran AS
